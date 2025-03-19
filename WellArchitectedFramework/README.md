@@ -1,5 +1,5 @@
 # Well Architected Framework 
-### 12 perguntas para criação de uma boa arquitetura
+### - 12 perguntas para criação de uma boa arquitetura
 
 ### Excelência Operacional (Operational Excellence)
 1) Como você gerencia operações?
